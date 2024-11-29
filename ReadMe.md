@@ -17,9 +17,11 @@ Welcome to wonderland 😂. I mean the main page. oh did i forget to mention you
 
 ![alt text](./PictureForReadme/image-2.png)
 
-Now let me show you the thing for which you have been wating for drum roll please ![alt text](./PictureForReadme/image-4.png)
+Now let me show you the thing for which you have been wating for drum roll please 
+![alt text](./PictureForReadme/image-4.png)
 
 Okay okay Sorry here you go.
+
 ![alt text](./PictureForReadme/image-5.png)
 To basic right yup what you can expect from a non-artist guy but it is what it is.
 
