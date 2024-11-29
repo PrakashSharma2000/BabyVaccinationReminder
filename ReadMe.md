@@ -19,22 +19,25 @@ Welcome to Wonderland 😂. I mean the main page. oh did I forget to mention you
 ![alt text](./PictureForReadme/image-2.png)
 
 Now let me show you the thing for which you have been waiting for drum roll, please 
+
 ![alt text](./PictureForReadme/image-4.png)
 
 Okay okay Sorry here you go.
 
 ![alt text](./PictureForReadme/image-5.png)
+
 To basic right yup what you can expect from a non-artist guy but it is what it is.
 
 * Now here we can see the list of vaccines
 * Upcoming vaccination dates and list.
 * and a tiny button to update the status.
 
-Once you click on the wonder magic button it pop up few entries for you.
+Once you click on the wonder magic button it pop's up few new entries for you.
+
 ![alt text](./PictureForReadme/image-6.png)
 
 * Now here you have to give the hospital name from where you took the vaccine I mean your baby.
-* And Date as well. That also will update the upcoming dates of vaccines as well if you took the vaccine on scheduled dates.
+* And Date as well. That will also update the upcoming dates of vaccines as well if you took the vaccine on scheduled dates.
 
 ![alt text](./PictureForReadme/image-7.png)
 
